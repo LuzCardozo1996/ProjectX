@@ -15,5 +15,12 @@ La herramienta debe tener ventaja de ser sencilla de utilizar según el esquema 
 
 # Librerias
 
+Chatgpt es un chatbot de inteligencia artifical que está especializado en mantener conversaciones con persona
+
+Youchat es una IA conversacional alternativa a Chatgpt, es capaz de mantener conversaciones con acceso completo a internet
+
+Bloom es capaz de generar texto en un total de 46 idiomas y 13 lenguajes de programación que son similares a algo que escribiría un humano
+
+Nightcafe genera imágenes acorde a un texto descriptivo.
 
 # Como colaborar
